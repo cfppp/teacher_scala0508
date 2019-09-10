@@ -6,7 +6,7 @@ import java.time.LocalDate
   * Author lzc
   * Date 2019-09-09 11:02
   */
-object ImplicitDemo3 {
+object ImplicitDemo8 {
     def main(args: Array[String]): Unit = {
         
         val ago = "ago"
